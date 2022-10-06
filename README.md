@@ -1,5 +1,5 @@
 # SimplePhysicsFormulae
-# Date of creation: 5 October 2022
+#### Date of creation: 5 October 2022
 This repository contains programs that will help you calculate values based on given data.
 So, basically for the sake of practicing java and revising my physics lessons I made these programs. These programs are not really meant for use but if want to then
 you are always free.
