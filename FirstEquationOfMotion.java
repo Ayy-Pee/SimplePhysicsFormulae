@@ -4,8 +4,8 @@ public class FirstEquationOfMotion{
         Scanner sc = new Scanner(System.in);
         double v,u,a,t;
         int k = 0;
-        while(k==0){
             System.out.println("----------TYPE and ENTER ; What you want to calculate?----------");
+        while(k==0){
             System.out.println("[V]=Final Velocity, [U]=Initial Velocity, [A]=Acceleration, [T]=Time, [E]=Exit");
             char imp = sc.next().charAt(0);
             if(imp=='V'||imp=='v'){
