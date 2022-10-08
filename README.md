@@ -6,4 +6,4 @@ you are always free.
 
 I will be adding more programs as I clear new concepts in physics and will also try to make the code more efficient and neat as I learn more for now you can find what the code does by looking at its title or by visiting the code and for now I have made individual codes for different formulas.
 
-fyi - I am 15 y/o 9th grader, ICSE school
+fyi - I am 15 y/o 9th grader, ICSE school --- 2022
